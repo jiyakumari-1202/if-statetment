@@ -5,4 +5,5 @@ print("Subtraction:",a-b)
 print("Multiplication:",a*b)
 print("Division:",a/b)
 print("Floor Div" :",a//b)
+print("Modulus:",a%b)
 
