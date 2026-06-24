@@ -41,4 +41,7 @@ print(Name.strip())#Strip string(remove extra space)
 print(Name.startswith("ya"))#startswith string(string start with a given value)
 Text="Python.py"
 print(Text.endswith(".py"))#endswith string(string end with a given value)
-
+text=="Hello everyone i am here "
+print(len(text))#length string
+print(text[5])
+print(text[2:3])
