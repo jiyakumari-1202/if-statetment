@@ -99,3 +99,6 @@ for fruit in Fruits:
  print(Fruits)#Using for loop
  Squares=[x*x for x in range(1,6)]
 print(Squares)
+numbers=[1,2,3,4,5,6]
+numbers[:4]
+print(numbers)
