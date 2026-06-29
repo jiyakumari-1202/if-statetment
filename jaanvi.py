@@ -6,3 +6,6 @@ print(Text[-12:-4])
 Name=["Jiya","Moni","Neha","rani"]
 print(Name)
 print("engineering" not in Text)
+Name=["Jiya","Moni",""]
+name="Jiya"
+print(Name)

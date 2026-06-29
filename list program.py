@@ -21,6 +21,7 @@ Mixed=["Python",23,56.7,True]
 print(Mixed)#Mixed list
 Matrix=[
     [1,2,3],
+
     [4,5,6],
     [7,8,9]
 ]
@@ -67,8 +68,34 @@ numbers=[50,10,69,58]
 numbers.sort()
 print(numbers)#sorts the list(Sort)
 numbers.reverse()
-print(numbers)#reverse the list(reverse)
+print(numbers)
+#reverse the list(reverse)
 nums=[1,2,2,3,3,4,5,2]
 print(nums.count(2))#counts occurrences(count)
-fruits=["jamuna","apples","Mango","Oranges"]
+fruits=["jamun","apples","Mango","Oranges"]
 print(fruits.index("apples"))#(index)
+language=["java","c","c++","python","js"]
+mixed=["priya",25,70.5,[11,12,13],25]
+numbers=[1,2,3,4,5,6,7,8,9,10]
+print(type(mixed))
+print(len(mixed))
+print("mixed")
+print(numbers[2:])
+print("java" in language)
+name=input("Enter your name:")
+print("welcome",name)
+language[2]="jiya","deepika"
+print(language)
+language.insert(3,"langchain")
+print(language)
+#List of Operators
+List1=[1,2]
+List2=[3,4]
+print(List1+List2)#Concentration String
+print([1]*5)#Repitation String
+#Using loop
+Fruits=["Mango","Banana","Watermelon","Orange"]
+for fruit in Fruits:
+ print(Fruits)#Using for loop
+ Squares=[x*x for x in range(1,6)]
+print(Squares)
