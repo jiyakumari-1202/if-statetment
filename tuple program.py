@@ -73,16 +73,24 @@ print(a)
 print(b)
 print(c)#unpacking method
 
+#different types of unpacking method
 student=("Jiya",19,"BCA")
 name,age,course=student
 print(name)
 print(age)
 print(course)
 
-number=(10,20,30,40,50,60,70,80)
-n1,n2,n3,n4,*n5=number
-print(n1)
-print(n2)
-print(n3)
-print(n4)
-print(*n5)
+number=(10,(20,30),(40,50),60,70,80)
+#n1,n2,n3,n4,*n5=number
+#print(n1)
+# print(n2)
+# print(n3)
+# print(n4)
+# print(*n5)
+
+Num=(12,13,14,15,16)
+num1=list(Num)
+
+del Num
+print(Num)
+
