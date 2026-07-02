@@ -76,3 +76,6 @@ print(data)##Can a tuple contain a list
 
 data=[1,2,(3,4)]
 print(data)#Can a list contain tuple
+
+this_tuple=["apple","banana","cherry","apple","cherry"]
+print(this_tuple[-5:-2])
