@@ -88,9 +88,5 @@ number=(10,(20,30),(40,50),60,70,80)
 # print(n4)
 # print(*n5)
 
-Num=(12,13,14,15,16)
-num1=list(Num)
 
-del Num
-print(Num)
 

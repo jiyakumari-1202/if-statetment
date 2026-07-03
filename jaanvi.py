@@ -8,4 +8,4 @@ print(Name)
 print("engineering" not in Text)
 Name=["Jiya","Moni",""]
 name="Jiya"
-print(Name)
+print(name)

@@ -12,7 +12,6 @@ print(mixed)#stored different types
 NUMBER=[12,13,14,15]
 print(NUMBER)#Integer list
 Name=["Jiya","Mahak","Moni","Neha"]
-print(Name)#String list
 price=[12.4,33.7,56.7]
 print(price)#Float list
 Flags=[True,False,True]
@@ -21,7 +20,6 @@ Mixed=["Python",23,56.7,True]
 print(Mixed)#Mixed list
 Matrix=[
     [1,2,3],
-
     [4,5,6],
     [7,8,9]
 ]
