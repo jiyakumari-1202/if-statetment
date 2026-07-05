@@ -18,6 +18,7 @@ Data=[("lang","Python"),
       ("status",True)]
 d=dict(Data)
 print(d)
+<<<<<<< Updated upstream
 
 #Accessing dict value
 #using square brackets
@@ -76,3 +77,6 @@ student={
 print(student.clear())#clear method
 #dict are useful for storing student records
 #storing employeee details
+=======
+#
+>>>>>>> Stashed changes
