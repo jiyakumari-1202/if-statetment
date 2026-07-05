@@ -1,4 +1,5 @@
 person={
-      "name":"jiya"       
+      "name":"jiya",
+      "course":"BCA"
 }
 print(person)
