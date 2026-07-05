@@ -29,7 +29,7 @@ if "python" in message:
     print(message[-14:-4])
     print(message[0:10])
     print(message[:10])
-    print(message[12:])
+    # print(message[12:])
     print(message.upper())#capital letters
     print(message.lower())#smaller letter
     print(message.replace('great','awesome'))#replace
